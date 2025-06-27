@@ -40,14 +40,6 @@
 				<image id="still"><![CDATA[assets/images/videos/tongue_tied.jpg]]></image>
 				<image id="thumbnail"><![CDATA[assets/images/videos/tongue_tied_th.jpg]]></image>
 			</images>
-	  </video>
-	      <video order="5">
-       <title><![CDATA[Low Dive]]></title>
-       <url><![CDATA[assets/images/videos/Dive2.flv]]></url>
-       <images>
-         <image id="still"><![CDATA[assets/images/videos/dive.jpg]]></image>
-         <image id="thumbnail"><![CDATA[assets/images/videos/dive_th.jpg]]></image>
-       </images>
      </video>   
 	</videos>
 </data>
